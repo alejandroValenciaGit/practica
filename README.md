@@ -1,5 +1,5 @@
-# repositorio de practica
-Repositorio de practica, básicamente el primero
+# Repositorio de practica
+Repositorio de practica
 
-##Descripcion 
-Este repositorio va a observar mis primeros pasos en GitHub
+## Descripcion 
+Este repositorio va a ser usado para ejercicios de practica
